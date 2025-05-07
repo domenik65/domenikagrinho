@@ -3,13 +3,13 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #f2fbe0;
-    color: #333;
+    background-color: #aaff00;
+    color: #ff0000;
   }
   
   /* Cabeçalho */
   header {
-    background-color: #4CAF50;
+    background-color: #9aa19a;
     color: white;
     padding: 2rem 1rem;
     text-align: center;
@@ -17,13 +17,13 @@ body {
   
   /* Navegação */
   nav {
-    background-color: #388e3c;
+    background-color: #11fcdc;
     text-align: center;
     padding: 1rem;
   }
   
   nav a {
-    color: white;
+    color: rgb(2, 243, 231);
     text-decoration: none;
     margin: 0 15px;
     font-weight: bold;
@@ -42,7 +42,7 @@ body {
   }
   
   .section h2 {
-    color: #2e7d32;
+    color: #0ea0e4;
     margin-bottom: 1rem;
   }
   
@@ -52,18 +52,18 @@ body {
   
   /* Espaço do aluno */
   .custom-area {
-    background-color: #ffffff;
-    border: 2px dashed #ccc;
+    background-color: #00eeff;
+    border: 2px dashed #4bc4c9;
     padding: 1rem;
     text-align: center;
-    color: #777;
+    color: #1669d4;
     margin-top: 1rem;
   }
   
   /* Rodapé */
   footer {
-    background-color: #2e7031;
-    color: white;
+    background-color: #00ccff;
+    color: rgb(0, 255, 200);
     text-align: center;
     padding: 1rem;
     margin-top: 2rem;
